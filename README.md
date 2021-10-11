@@ -10,11 +10,6 @@ I hope that these sample can help you in your real projects or just for the purp
 
 <br/>
 
-### About me
-
-I am a mobile developer from Iraq, this repo is just to share source code for my [Instagram page @ezaldeen_sahb](https://www.instagram.com/ezaldeen_sahb/) Videos. 
-
-<br/>
 
 ### The Animations
 
