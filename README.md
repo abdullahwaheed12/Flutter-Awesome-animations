@@ -1,15 +1,12 @@
 
-<br />
-<p align="center"><img src="assets\sceen.jpg" width="550px"/></p>
-<br />
 
 ### Flutter Animations
 
 A collection of Animations that aims to improve the user experience for your next flutter project.
-Built by [Ezaldeen SAHB](https://ezaldeensahb.link)
+
 I hope that these sample can help you in your real projects or just for the purpose of learning and inspiration.
 
-In addition to forking and reviewing the [MIT licensed code](LICENSE.md) available here.
+.
 
 <br/>
 
